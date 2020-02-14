@@ -1,0 +1,127 @@
+.restaurant-list {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.restaurant-list article {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.restaurant-list article strong {
+font-size: 23px;
+
+}
+.restaurant-list article p {
+    font-size: 16px;
+    color: #999;
+    margin-top: 5px;
+    line-height: 24px;
+}
+.restaurant-list article a {
+height: 42px;
+border-radius: 5px;
+border: 2px solid #5c71e7;
+background: none;
+margin-top: 10px;
+color: #5c71e7;
+font-weight: bold;
+font-size: 16px;
+text-decoration: none;
+display: flex;
+justify-content: center;
+align-items: center;
+transition: all 0.2s;
+}
+
+.restaurant-list article a:hover {
+background: #5c71e7;
+color: #fff;
+}
+
+.restaurant-list article img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+   }
+   
+   .restaurant-list article button {
+background-color: rgb(114, 86, 236);
+    color: #ffffff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+   }
+
+   form {
+       margin-top: 20px;
+   }
+
+   input{
+       position: relative;
+       display: inline-block;
+       font-size: 20px;
+       box-sizing: border-box;
+       transition: .5s;
+   }
+   input[type="text"]{
+       background: #fff;
+       width: 340px;
+       height: 30px;
+       border: none;
+       outline: none;
+       padding: 0 25px;
+       border-radius: 25px 0 0 25px;
+   }
+   input[type="submit"]{
+position: relative;
+border-radius: 0 25px 25px 0;
+width: 150px;
+       height: 30px;
+       border: none;
+       outline: none;
+       cursor: pointer;
+       color: #fff;
+       background-color: #5c71e7;
+   }
+   input[type="submit"]:hover{
+   
+    background-color:rgb(11, 11, 48)e7;
+   }
+ div.group  {
+     
+    margin-top: 20px !important;
+   display:grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

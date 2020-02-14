@@ -1,0 +1,15 @@
+.obj{
+    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+button{
+    background-color: #5c71e7;
+    color: blanchedalmond;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 20px;
+}

@@ -1,0 +1,38 @@
+.menu-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.menu-info  h1{
+ font-size: 32px;
+}
+
+.menu-info p {
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+
+.menu-info  article img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+   }
+   
+  button.btnad{
+       background-color:  #5c71e7;
+       color: #fff;
+       width: 200px;
+       height: 30px;
+   }
+
+   div.btnbtn{
+display: flex;
+justify-content: center;
+align-items: center;
+   }
